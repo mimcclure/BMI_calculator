@@ -1,6 +1,7 @@
 BMI calculator that uses the metric system
 
 #App Look
+
 ![image](https://user-images.githubusercontent.com/77661117/177022781-ea53299d-5095-49c7-9760-4c1c6482860f.png)
 
 # Getting Started with Create React App
